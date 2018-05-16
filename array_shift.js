@@ -14,6 +14,6 @@ const shift = function insertShiftArray(arr, val) {
   arr[middle]=val;
 
   return arr;
-}
+};
 
 module.exports = shift;
