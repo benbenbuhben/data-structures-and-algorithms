@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_shift.js",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest ./__test__/lib/array_shift.test.js --verbose --coverage",
+    "test-watch": "jest ./__test__/lib/array_shift.test.js --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbenbuhben/data-structures-and-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benbenbuhben/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/benbenbuhben/data-structures-and-algorithms#readme"
+}
