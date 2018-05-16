@@ -1,4 +1,6 @@
-const arrayShift = require('../../array_shift.js');
+'use strict';
+
+const arrayShift = require('../../../lib/array_data_structures/array_shift.js');
 
 describe('Shifted Array', () => {
 
@@ -14,7 +16,6 @@ describe('Shifted Array', () => {
 
   it('insertShiftedArray() puts the value in the middle index', () => {
     let testArray = arrayShift([4, 'string', {}, []], true);
-
     expect( testArray ).toEqual([4, 'string', true, {}, []]);
   });
 
