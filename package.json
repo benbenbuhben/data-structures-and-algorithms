@@ -10,8 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "lint": "eslint **/*.js",
-    "test": "jest ./__test__/lib/array_shift.test.js --verbose --coverage",
-    "test-watch": "jest ./__test__/lib/array_shift.test.js --watchAll --verbose --coverage"
+    "test": "jest ./__test__/lib/array-data-structures/array_binary_search.test.js --verbose --coverage",
+    "test-watch": "jest ./__test__/lib/array-data-structures/array_binary_search.test.js --watchAll --verbose --coverage"
   },
   "repository": {
     "type": "git",
