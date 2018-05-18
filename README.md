@@ -21,3 +21,14 @@ Write a function called ```binarySearch``` which takes in 2 parameters: a sorted
 
 
 ![Solution](/assets/array_binary_Search.JPG)
+
+## Challenege 4 - Adjacent Product
+
+### Challenge
+Write a function called ```largestProduct``` which takes in a 2D array. Without utilizing any of the built-in methods available to your language, return the largest product of 2 adjacent values within the 2D array.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/array_data_structures/array_binary_search.js/#L1)*
+
+
+![Solution](/assets/array_adjacent_product.JPG)
