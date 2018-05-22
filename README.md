@@ -32,3 +32,18 @@ Write a function called ```largestProduct``` which takes in a 2D array. Without 
 
 
 ![Solution](/assets/array_adjacent_product.JPG)
+
+## Challenege 6 - Linked List Insertions
+
+### Challenge
+Assuming you have access to the Node class and all the properties of the Linked List class, write the following methods for the Linked List class:
+
+```.append(value)``` which adds a new node with the given value to the end of the list
+```.insertBefore(value, newVal)``` which add a new node with the given newValue immediately before the first value node
+```.insertAfter(value, newVal)``` which add a new node with the given newValue immediately after the first value node
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/ll_data_structures/ll_insertions.js/#L1)*
+
+
+![Solution](/assets/ll_insertions(1of3).jpeg, /assets/ll_insertions(1of3).jpeg, /assets/ll_insertions(1of3).jpeg)
