@@ -14,7 +14,7 @@ Write a function called ```insertShiftArray``` which takes in an array and the v
 ## Challenege 3 - Binary Search
 
 ### Short summary or background information
-This is a function called ```binarySearch``` finds the position of a targeted value in a sorted array.
+This is a function called ```binarySearch``` that finds the position of a targeted value in a sorted array.
 
 ### Challenge
 Write a function called ```binarySearch``` which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
