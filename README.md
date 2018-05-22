@@ -46,4 +46,6 @@ Assuming you have access to the Node class and all the properties of the Linked 
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/ll_data_structures/ll_insertions.js/#L1)*
 
 
-![Solution](/assets/ll_insertions(1of3).jpeg), (/assets/ll_insertions(1of3).jpeg), (/assets/ll_insertions(1of3).jpeg)
+![Solution pt. 1](/assets/ll_insertions(1of3).jpeg)
+![Solution pt. 2](/assets/ll_insertions(2of3).jpeg)
+![Solution pt. 3](/assets/ll_insertions(3of3).jpeg)
