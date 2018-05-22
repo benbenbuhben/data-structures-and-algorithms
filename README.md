@@ -13,6 +13,9 @@ Write a function called ```insertShiftArray``` which takes in an array and the v
 
 ## Challenege 3 - Binary Search
 
+### Short summary or background information
+This is a function called ```binarySearch``` finds the position of a targeted value in a sorted array.
+
 ### Challenge
 Write a function called ```binarySearch``` which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
 
@@ -20,7 +23,7 @@ Write a function called ```binarySearch``` which takes in 2 parameters: a sorted
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/array_binary_search/array_binary_search.js/#L1)*
 
 
-![Solution](/assets/array_binary_Search.JPG)
+![Solution](/assets/array_binary_search.jpeg)
 
 ## Challenege 4 - Adjacent Product
 
