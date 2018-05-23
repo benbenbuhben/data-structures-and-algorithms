@@ -10,8 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "lint": "eslint **/*.js",
-    "test": "jest ./__test__/lib/array-data-structures/array_adjacent_product.test.js --verbose --coverage",
-    "test-watch": "jest ./__test__/lib/array-data-structures/array_adjacent_product.test.js --watchAll --verbose --coverage"
+    "test": "jest ./__test__/lib/linked-lists/ll_merge.test.js --verbose --coverage",
+    "test-watch": "jest ./__test__/lib/linked-lists/ll_merge.test.js --watchAll --verbose --coverage"
   },
   "repository": {
     "type": "git",
