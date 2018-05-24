@@ -1,5 +1,7 @@
 # data-structures-and-algorithms
 
+[![Build Status](https://travis-ci.com/benbenbuhben/data-structures-and-algorithms.svg?branch=master)
+
 ## Challenge 2 - Insert and Shift Array
 
 ### Challenge
