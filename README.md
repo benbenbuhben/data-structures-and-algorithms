@@ -75,3 +75,13 @@ Write a function called mergeLists which takes two linked lists as arguments and
 
 ![Solution](/assets/ll_merge.jpeg)
 
+## Challenge 9 - Linked List Detect Loop
+
+### Challenge
+Write a method on the LinkedList class called hasLoop() that takes in no input and returns a boolean indicating whether the Linked List has a loop.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/ll_data_structures/ll_detect_loop.js/#L1)*
+
+![Solution](/assets/ll_detect_loop.jpeg)
+
