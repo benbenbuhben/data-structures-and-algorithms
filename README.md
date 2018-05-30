@@ -83,3 +83,26 @@ Write a method on the LinkedList class called hasLoop() that takes in no input a
 
 ![Solution](/assets/ll_detect_loop.jpeg)
 
+
+# Challenge 11 Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/fifo_animal_shelter.js/#L1)*
+
+![Solution](/assets/fifo_animal_shelter.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+
+## Challenge
+Create a class called AnimalShelter which holds only dogs and cats. The shelter operates using a first-in, first-out approach. Implement the following methods:
+  - enqueue(animal): adds animal to the shelter. animal can be either a dog or a cat object.
+  - dequeue(pref): returns either a dog or a cat. If pref, a string, is ‘cat’ return the longest-waiting cat. If pref is ‘dog’, return the longest-waiting dog. For anything else, return either a cat or a dog.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/fifo_animal_shelter.js/#L1)*
+
+![Solution](/assets/fifo_animal_shelter.JPG)

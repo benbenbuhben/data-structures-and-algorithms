@@ -10,8 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "lint": "eslint **/*.js",
-    "test": "jest ./__test__/lib/linked-lists/ll_detect_loop.test.js --verbose --coverage",
-    "test-watch": "jest ./__test__/lib/linked-lists/ll_detect_loop.test.js --watchAll --verbose --coverage"
+    "test": "jest ./__test__/lib/fifo_animal_shelter.test.js --verbose --coverage",
+    "test-watch": "jest ./__test__/lib/fifo_animal_shelter.test.js --watchAll --verbose --coverage"
   },
   "repository": {
     "type": "git",
