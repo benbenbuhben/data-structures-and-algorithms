@@ -106,3 +106,102 @@ Create a class called AnimalShelter which holds only dogs and cats. The shelter 
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/fifo_animal_shelter.js/#L1)*
 
 ![Solution](/assets/fifo_animal_shelter.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
+
+![Solution](/assets/multi-bracket-validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
+
+![Solution](/assets/multi-bracket-validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
+
+![Solution](/assets/multi-bracket-validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
+
+![Solution](/assets/multi-bracket-validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
+
+![Solution](/assets/multi-bracket-validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
+
+![Solution](/assets/multi-bracket-validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
+
+![Solution](/assets/multi_bracket_validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
+
+![Solution](/assets/multi_bracket_validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
+
+![Solution](/assets/multi_bracket_validation.JPG)

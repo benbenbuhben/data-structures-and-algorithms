@@ -46,8 +46,8 @@ function (error, response, html) {
 });
 
 // So we should get the above sent as a promise. But for now...
-let assignmentName = 'fifo_animal_shelter';
-let functionName = 'enqueue(animal)';
+let assignmentName = 'multi_bracket_validation';
+let functionName = 'multiBracketValidation(input)';
 
 //Create file to write the code. Definitely add an if conditional to check if these files already exist! Don't want to overwrite any work that's already been done. Promisify the 3 things below that need to wait on the first. Run as callbacks within the first in an array of promises. Then do a promise.all, within that call the last one that opens up vscode.
 cmd.get(
@@ -135,6 +135,7 @@ cmd.get(
   `,
   function(err, data, stderr){
     let img2move = data.split('\n')[0];
+    console.log('img file is', img2move);
     var n = img2move.lastIndexOf('.');
     var extension = img2move.substring(n + 1);
     console.log(extension);
@@ -145,10 +146,13 @@ cmd.get(
     cmd.get(
       `
         cd ${__dirname}
-        cp ~/Downloads/${img2move} ../assets/${assignmentName}.${extension}
+        cp -r ~/Downloads/${img2move} ../assets/${assignmentName}.${extension}
+        pwd
       `,
       function(err, data, stderr){
+        console.log(`${__dirname}`);
         console.log(`~/Downloads/${img2move} has been copied to assets and renamed to ${assignmentName}.${extension}!`);
+        console.log(data);
       }); 
   }
 );
