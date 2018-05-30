@@ -195,11 +195,14 @@ Put featureTasks here once you get the promise thing down.
 
 ![Solution](/assets/multi_bracket_validation.JPG)
 
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
+# Challenge Multibracket Validation
 
 ## Challenge
-Put featureTasks here once you get the promise thing down.
+Write a function that takes a string as its only argument, and returns a boolean representing whether or not the brackets in the string are balanced. There are 3 types of brackets:
+
+Round Brackets : ()
+Square Brackets : []
+Curly Brackets : {}
 
 ### Solution
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
