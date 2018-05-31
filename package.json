@@ -10,8 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "lint": "eslint **/*.js",
-    "test": "jest ./__test__/lib/multi_bracket_validation.test.js --verbose --coverage",
-    "test-watch": "jest ./__test__/lib/multi_bracket_validation.test.js --watchAll --verbose --coverage"
+    "test": "jest ./__test__/lib/Towers-Of-Hanoi.test.js --verbose --coverage",
+    "test-watch": "jest ./__test__/lib/Towers-Of-Hanoi.test.js --watchAll --verbose --coverage"
   },
   "repository": {
     "type": "git",
