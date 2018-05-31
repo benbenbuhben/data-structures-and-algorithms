@@ -208,3 +208,14 @@ Curly Brackets : {}
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
 
 ![Solution](/assets/multi_bracket_validation.JPG)
+
+# Challenge (insert challenge #) Implement a Queue using two Stacks.
+<!-- Short summary or background information -->
+
+## Challenge
+Put featureTasks here once you get the promise thing down.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/Towers-of-Hanoi.js/#L1)*
+
+![Solution](/assets/Towers-of-Hanoi.JPG)
