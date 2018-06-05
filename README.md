@@ -224,3 +224,14 @@ A disk can’t be placed on top of a smaller disk.
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/Towers-of-Hanoi.js/#L1)*
 
 ![Solution](/assets/Towers-of-Hanoi.JPG)
+
+# Challenge FizzBuzzTree
+
+## Challenge
+Write a function called FizzBuzzTree which takes a tree as an argument.
+Without utilizing any of the built-in methods available to your language, determine weather or not the value of each node is divisible by 3, 5 or both, and change the value of each of the nodes respectively. Return the tree with it’s news values.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/fizzBuzzTree.js/#L1)*
+
+![Solution](/assets/fizzBuzzTree.JPG)

@@ -10,8 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "lint": "eslint **/*.js",
-    "test": "jest ./__test__/lib/Towers-Of-Hanoi.test.js --verbose --coverage",
-    "test-watch": "jest ./__test__/lib/Towers-Of-Hanoi.test.js --watchAll --verbose --coverage"
+    "test": "jest ./__test__/lib/fizzBuzzTree.test.js --verbose --coverage",
+    "test-watch": "jest ./__test__/lib/fizzBuzzTree.test.js --watchAll --verbose --coverage"
   },
   "repository": {
     "type": "git",
