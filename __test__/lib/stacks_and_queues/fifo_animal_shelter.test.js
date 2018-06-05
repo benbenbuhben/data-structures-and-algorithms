@@ -1,6 +1,6 @@
 'use strict';
 
-const AnimalShelter = require('../../lib/fifo_animal_shelter.js');
+const AnimalShelter = require('../../../lib/stacks_and_queues/fifo_animal_shelter.js');
 
 class Animal {
   constructor(type) {

@@ -46,8 +46,8 @@ function (error, response, html) {
 });
 
 // So we should get the above sent as a promise. But for now...
-let assignmentName = 'fizzBuzzTree';
-let functionName = 'fizzBuzzTree()';
+let assignmentName = 'breadthFirstTraversal';
+let functionName = 'breadthFirstTraversal';
 
 //Create file to write the code. Definitely add an if conditional to check if these files already exist! Don't want to overwrite any work that's already been done. Promisify the 3 things below that need to wait on the first. Run as callbacks within the first in an array of promises. Then do a promise.all, within that call the last one that opens up vscode.
 cmd.get(
