@@ -5,7 +5,7 @@ var request = require('request'); //First tutorial used request
 var cheerio = require('cheerio');
 var cmd = require('node-cmd');
 const fs = require('fs');
-let url = 'https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-11//';
+let url = 'https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-11/';
 
 
 //let url = 'https://canvas.instructure.com/courses/1327067';
@@ -46,8 +46,8 @@ function (error, response, html) {
 });
 
 // So we should get the above sent as a promise. But for now...
-let assignmentName = 'Towers-of-Hanoi';
-let functionName = 'towersOfHanoi(n)';
+let assignmentName = 'fizzBuzzTree';
+let functionName = 'fizzBuzzTree()';
 
 //Create file to write the code. Definitely add an if conditional to check if these files already exist! Don't want to overwrite any work that's already been done. Promisify the 3 things below that need to wait on the first. Run as callbacks within the first in an array of promises. Then do a promise.all, within that call the last one that opens up vscode.
 cmd.get(
