@@ -1,6 +1,6 @@
 'use strict';
 
-const towersOfHanoi = require('../../lib/Towers-of-Hanoi.js');
+const towersOfHanoi = require('../../../lib/stacks_and_queues/Towers-of-Hanoi.js');
 
 describe('towersOfHanoi(n)', () => {
 

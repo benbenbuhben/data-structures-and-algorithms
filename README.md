@@ -97,7 +97,7 @@ Put featureTasks here once you get the promise thing down.
 
 ![Solution](/assets/fifo_animal_shelter.JPG)
 
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
+# Challenge FIFO Animal Shelter
 
 ## Challenge
 Create a class called AnimalShelter which holds only dogs and cats. The shelter operates using a first-in, first-out approach. Implement the following methods:
@@ -109,93 +109,6 @@ Create a class called AnimalShelter which holds only dogs and cats. The shelter 
 
 ![Solution](/assets/fifo_animal_shelter.JPG)
 
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
-
-![Solution](/assets/multi-bracket-validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
-
-![Solution](/assets/multi-bracket-validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
-
-![Solution](/assets/multi-bracket-validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
-
-![Solution](/assets/multi-bracket-validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
-
-![Solution](/assets/multi-bracket-validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi-bracket-validation.js/#L1)*
-
-![Solution](/assets/multi-bracket-validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
-
-![Solution](/assets/multi_bracket_validation.JPG)
-
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
-
-## Challenge
-Put featureTasks here once you get the promise thing down.
-
-### Solution
-*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/multi_bracket_validation.js/#L1)*
-
-![Solution](/assets/multi_bracket_validation.JPG)
 
 # Challenge Multibracket Validation
 
@@ -235,3 +148,13 @@ Without utilizing any of the built-in methods available to your language, determ
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/fizzBuzzTree.js/#L1)*
 
 ![Solution](/assets/fizzBuzzTree.JPG)
+
+# Challenge Breadth First Traversal
+
+## Challenge
+Write a function called breadthFirstTraversal which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach; print every visited node’s value.
+
+### Solution
+*[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/breadthFirstTraversal.js/#L1)*
+
+![Solution](/assets/breadthFirstTraversal.JPG)

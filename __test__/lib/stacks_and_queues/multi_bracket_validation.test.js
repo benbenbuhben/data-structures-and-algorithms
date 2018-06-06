@@ -1,6 +1,6 @@
 'use strict';
 
-const multiBracketValidation = require('../../lib/multi_bracket_validation.js');
+const multiBracketValidation = require('../../../lib/stacks_and_queues/multi_bracket_validation.js');
 
 describe(`multiBracketValidation(input)`, () => {
 
