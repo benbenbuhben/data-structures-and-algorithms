@@ -1,8 +1,8 @@
 'use strict';
 
-import findMaxValue from '../../../lib/trees/find-maximum-value-binary-tree.js';
-import BinaryTree from '../../../lib/trees/binaryTreeClass.js';
-import Node from '../../../lib/trees/nodeClass.js';
+const findMaxValue = require('../../../lib/trees/find-maximum-value-binary-tree.js')
+const BinaryTree = require('../../../lib/trees/binaryTreeClass.js');
+const Node = require('../../../lib/trees/nodeClass.js');
 
 describe('findMaxValue', () => {
 

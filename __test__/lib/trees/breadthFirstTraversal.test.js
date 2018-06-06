@@ -1,8 +1,8 @@
 'use strict';
 
-import breadthFirstTraversal from '../../../lib/trees/breadth-first-traversal.js';
-import BinaryTree from '../../../lib/trees/binaryTreeClass.js';
-import Node from '../../../lib/trees/nodeClass.js';
+const breadthFirstTraversal = require('../../../lib/trees/breadth-first-traversal.js');
+const BinaryTree = require('../../../lib/trees/binaryTreeClass.js');
+const Node = require('../../../lib/trees/nodeClass.js');
 
 describe('breadthFirstTraversal', () => {
 
