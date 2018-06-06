@@ -46,8 +46,8 @@ function (error, response, html) {
 });
 
 // So we should get the above sent as a promise. But for now...
-let assignmentName = 'breadthFirstTraversal';
-let functionName = 'breadthFirstTraversal';
+let assignmentName = 'find-maximum-value-binary-tree';
+let functionName = 'find-maximum-value-binary-tree';
 
 //Create file to write the code. Definitely add an if conditional to check if these files already exist! Don't want to overwrite any work that's already been done. Promisify the 3 things below that need to wait on the first. Run as callbacks within the first in an array of promises. Then do a promise.all, within that call the last one that opens up vscode.
 cmd.get(
@@ -84,7 +84,7 @@ cmd.get(
 
     const ${functionName} = require('../../../lib/${assignmentName}.js');
     
-    describe(${functionName}, () => {
+    describe('${functionName}', () => {
     
       it('${functionName}() does...', () => {
         let test = //put test here

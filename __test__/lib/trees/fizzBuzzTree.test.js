@@ -1,6 +1,6 @@
 'use strict';
 
-require('babel-register');
+//require('babel-register');
 import fizzBuzzTree from '../../../lib/trees/fizzbuzztree';
 import BinaryTree from '../../../lib/trees/binaryTreeClass.js';
 import Node from '../../../lib/trees/nodeClass.js';
