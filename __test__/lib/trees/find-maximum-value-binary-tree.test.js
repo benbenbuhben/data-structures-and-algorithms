@@ -1,6 +1,6 @@
 'use strict';
 
-const findMaxValue = require('../../../lib/trees/find-maximum-value-binary-tree.js')
+const findMaxValue = require('../../../lib/trees/find-maximum-value-binary-tree.js');
 const BinaryTree = require('../../../lib/trees/binaryTreeClass.js');
 const Node = require('../../../lib/trees/nodeClass.js');
 

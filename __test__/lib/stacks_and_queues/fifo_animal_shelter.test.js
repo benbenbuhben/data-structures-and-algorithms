@@ -2,17 +2,11 @@
 
 const AnimalShelter = require('../../../lib/stacks_and_queues/fifo_animal_shelter.js');
 
-class Animal {
-  constructor(type) {
-    this.type = type;
-  }
-}
-
 describe('enqueue(animal)', () => {
 
   it('enqueue(animal) creates a new array object', () => {
     let test = new AnimalShelter();
-      expect(typeof test.queue).toEqual('object');
+    expect(typeof test.queue).toEqual('object');
   });
 
   it('enqueue(animal) puts the new animal at the back of the queue (end of array)', () => {
@@ -55,15 +49,5 @@ describe('enqueue(animal)', () => {
     
     expect(test.enqueue('monkey')).toEqual('not allowed');
   });
-
-  // it('enqueue(animal)() does...', () => {
-  //   let test = //put test here
-  //     expect(test).toEqual();
-  // });
-
-  // it('enqueue(animal)() does...', () => {
-  //   let test = //put test here
-  //     expect(test).toEqual();
-  // });
 
 });
