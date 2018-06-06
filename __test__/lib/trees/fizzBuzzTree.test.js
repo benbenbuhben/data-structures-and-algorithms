@@ -1,9 +1,9 @@
 'use strict';
 
-require('babel-register');
-import fizzBuzzTree from '../../../lib/trees/fizzbuzztree';
-import BinaryTree from '../../../lib/trees/binaryTreeClass.js';
-import Node from '../../../lib/trees/nodeClass.js';
+//require('babel-register');
+const fizzBuzzTree = require('../../../lib/trees/fizzbuzztree');
+const BinaryTree = require('../../../lib/trees/binaryTreeClass.js');
+const Node = require('../../../lib/trees/nodeClass.js');
 
 
 describe('fizzBuzzTree()', () => {
@@ -31,7 +31,7 @@ describe('fizzBuzzTree()', () => {
     seven.right = nine;
 
     //let test = //put test here
-    expect(fizzBuzzTree(tree)).toEqual({"root": {"left": {"left": {"left": null, "right": {"left": {"left": null, "right": null, "value": 8}, "right": {"left": null, "right": null, "value": "fizz"}, "value": 7}, "value": "fizz"}, "right": null, "value": 2}, "right": {"left": {"left": null, "right": null, "value": 4}, "right": {"left": null, "right": null, "value": "buzz"}, "value": "fizz"}, "value": 1}});
+    expect(fizzBuzzTree(tree)).toEqual({"root": {"left": {"left": {"left": null, "right": {"left": {"left": null, "right": null, "value": 8}, "right": {"left": null, "right": null, "value": "fizz"}, "value": 7}, "value": "fizz"}, "right": null, "value": 2}, "right": {"left": {"left": null, "right": null, "value": 4}, "right": {"left": null, "right": null, "value": "buzz"}, "value": "fizz"}, "value": 1}}); // eslint-disable-line
   });
 
   it('fizzBuzzTree() switches out values divisible by both 3 & 5 with fizzbuzz', () => {
@@ -57,7 +57,7 @@ describe('fizzBuzzTree()', () => {
     seven.right = nine;
 
     //let test = //put test here
-    expect(fizzBuzzTree(tree)).toEqual({"root": {"left": {"left": {"left": null, "right": {"left": {"left": null, "right": null, "value": "buzz"}, "right": {"left": null, "right": null, "value": "fizzbuzz"}, "value": "fizz"}, "value": "fizzbuzz"}, "right": null, "value": "buzz"}, "right": {"left": {"left": null, "right": null, "value": "buzz"}, "right": {"left": null, "right": null, "value": "fizz"}, "value": "fizz"}, "value": "fizz"}});
+    expect(fizzBuzzTree(tree)).toEqual({"root": {"left": {"left": {"left": null, "right": {"left": {"left": null, "right": null, "value": "buzz"}, "right": {"left": null, "right": null, "value": "fizzbuzz"}, "value": "fizz"}, "value": "fizzbuzz"}, "right": null, "value": "buzz"}, "right": {"left": {"left": null, "right": null, "value": "buzz"}, "right": {"left": null, "right": null, "value": "fizz"}, "value": "fizz"}, "value": "fizz"}}); // eslint-disable-line
   });
 
   it('fizzBuzzTree() returns an object', () => {
