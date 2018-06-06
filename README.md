@@ -234,11 +234,10 @@ Without utilizing any of the built-in methods available to your language, determ
 
 ![Solution](/assets/fizzBuzzTree.JPG)
 
-# Challenge (insert challenge #) Implement a Queue using two Stacks.
-<!-- Short summary or background information -->
+# Challenge Breadth First Traversal
 
 ## Challenge
-Put featureTasks here once you get the promise thing down.
+Write a function called breadthFirstTraversal which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach; print every visited node’s value.
 
 ### Solution
 *[Solution](https://github.com/benbenbuhben/data-structures-and-algorithms/blob/master/lib/breadthFirstTraversal.js/#L1)*
