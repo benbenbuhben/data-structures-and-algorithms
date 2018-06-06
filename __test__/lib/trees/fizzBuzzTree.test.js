@@ -1,9 +1,9 @@
 'use strict';
 
-require('babel-register');
-import fizzBuzzTree from '../../../lib/trees/fizzbuzztree';
-import BinaryTree from '../../../lib/trees/binaryTreeClass.js';
-import Node from '../../../lib/trees/nodeClass.js';
+//require('babel-register');
+const fizzBuzzTree = require('../../../lib/trees/fizzbuzztree');
+const BinaryTree = require('../../../lib/trees/binaryTreeClass.js');
+const Node = require('../../../lib/trees/nodeClass.js');
 
 
 describe('fizzBuzzTree()', () => {
