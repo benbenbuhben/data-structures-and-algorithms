@@ -4,17 +4,20 @@
   "description": "",
   "main": "array_shift.js",
   "dependencies": {
-    "eslint": "^4.19.1",
-    "jest": "^22.4.3",
     "babel-env": "^2.4.1",
     "babel-eslint": "^8.2.3",
-    "babel-register": "^6.26.0"
+    "babel-register": "^6.26.0",
+    "eslint": "^4.19.1",
+    "jest": "^22.4.3",
+    "queue-fifo": "^0.2.5",
+    "util": "^0.11.0"
   },
   "devDependencies": {},
   "scripts": {
     "lint": "eslint **/*.js",
     "test": "jest --verbose --coverage",
-    "test-watch": "jest ./__test__/lib/stacks_and_queues/fifo_animal_shelter.js  --watchAll --verbose --coverage"
+    "test-watch": "jest ./__test__/lib/stacks_and_queues/fifo_animal_shelter.js  --watchAll --verbose --coverage",
+    "start": "node ./lib/trees/app.js"
   },
   "repository": {
     "type": "git",
